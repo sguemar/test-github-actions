@@ -1,0 +1,25 @@
+{
+  "name": "test-github-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sguemar/test-github-actions.git"
+  },
+  "keywords": [
+    "github-actions"
+  ],
+  "author": "Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sguemar/test-github-actions/issues"
+  },
+  "homepage": "https://github.com/sguemar/test-github-actions#readme",
+  "devDependencies": {
+    "vitest": "^1.0.4"
+  }
+}
